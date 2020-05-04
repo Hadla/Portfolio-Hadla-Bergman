@@ -1,0 +1,59 @@
+/* Start Navigation */
+.main-menu {
+    background: rgba(255, 255, 255, 0.849);
+    box-shadow:0px 0px 83px 41px rgba(255, 255, 255, 0.699);
+    border-radius: 0.7rem;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    color: grey;
+}
+
+
+.header .main-menu .navbar .navbar-name {
+    padding: 0.2rem 0.5rem;
+    font-size: 2.2rem;
+    font-weight: 100;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    
+}
+
+.header .main-menu .navbar {
+    padding: 1rem 15rem ;
+    margin-top: 2rem;
+}
+
+.header .main-menu .nav-item .nav-link {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    padding: 1rem;
+    color: grey;
+}
+
+.header .main-menu .navbar-nav .active a {
+    background: black;
+    font-weight: 800;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.header .main-menu .navbar-nav a:hover {
+    font-weight: 800;
+    background: black;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    
+}
+
+.nav-item {
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+/* End Navigation */
+

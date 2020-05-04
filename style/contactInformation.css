@@ -1,0 +1,67 @@
+.contact-info-area {
+    padding-top: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.contact-info-container {
+    background: #EFEFEF;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 30rem;
+    border-radius: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    box-shadow: 3px 4px 5px rgb(199, 198, 198);
+    margin-bottom: 10rem;
+    flex-direction: row;
+}
+
+.contact-info-text {
+    margin-top: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.container-text-area {
+    margin-bottom: 1.5rem;
+    margin-top: 0.5rem;
+    margin-left: 1.5rem;
+}
+
+.info-text-header {
+    color: black;
+    font-size: 0.8rem;
+    font-weight: 900;
+
+}
+.info-text {
+    color: black;
+    font-size: 0.8rem;
+    font-weight: 100;
+    margin-bottom: 2rem;
+}
+
+.social-media {
+    display: flex;
+    justify-content: left;
+    margin-bottom: 0.2rem;
+}
+
+.social-media-icon {
+    width: 1.4rem;
+    margin-right: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-image-area {
+    margin-left: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-profile-image {
+    height: 13rem;
+    border-radius: 0.5rem;
+}

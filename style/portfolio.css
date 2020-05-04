@@ -1,0 +1,35 @@
+/* .intro-text a{
+    text-decoration: none;
+    color: inherit;
+    
+}
+.intro-text a:hover{
+    text-decoration: none;
+    color: inherit;
+    cursor:pointer; 
+    
+} */
+
+.intro-text {
+    color: inherit;
+    all: unset;
+}
+
+.intro-text a:hover {
+    font-weight: 900;
+    color: black;
+    text-decoration: none !important;
+    cursor: pointer; 
+    all: unset;
+}
+
+.project-information {
+    font-family: 'Montserrat', sans-serif; 
+}
+.project-information-header {
+    text-align: center;
+    margin-top: 2rem;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+ 

@@ -1,0 +1,29 @@
+.about-area {
+    margin-top: 1rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.about-text-area {
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 2rem;
+    margin-top: 2rem;
+    width: 80%;
+    line-height: 1.5rem;
+    
+}
+.about-text-header {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: rgb(110, 115, 116);
+}
+.about-text {
+    margin-top: 1rem;
+    font-size: 0.7rem;
+
+}
+
